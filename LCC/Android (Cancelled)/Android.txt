@@ -1,0 +1,71 @@
+->Views
+->Greeting app
+
+3.Calculator
+
+
+Intro
+	ML Session
+	Laptop
+
+Phone vs Laptop / Numbers
+	1st sem
+	S20 Ultra vs my laptop
+	The future is mobil
+
+Market for Mobile Applications / Chocolates
+	Booking
+	Payment
+		scratch cards
+	Food
+		discounts
+		uber eats at frappe
+	Gaming
+		Chain Reaction
+		Sreekar
+		Now compare to desktop
+		Candy Crush	####################
+		Supercell     ####################
+	Skilled people / Demand and supply
+		LCC
+		Projects
+		Faculty
+			DBMS
+			Backend
+			10
+		App vs Web
+			Initially, first Impression			
+			RISC vs CISC
+			Easy UI
+			Push Notific
+			Field specific Website, Portfolio etc
+			Platform
+	
+Android vs iPhone
+	My Story
+
+Stack
+	Swift
+	Flutter
+	Kotlin
+	Java
+
+USB debugging - One time
+On the way to Hello World app
+	API game
+recap usb studio new connect run
+
+Activity
+	like web page; is a sccreen
+	hello world, calculator, settings activity count?	####
+	bottom, kebab, hamburger, tab?
+
+Layout
+	navigate XML and Java per activity
+	Design x2
+
+Second Activity
+	CamelCase
+
+TextView
+	Text, Size, Color, Width, Height, Font, Search align - TextView
