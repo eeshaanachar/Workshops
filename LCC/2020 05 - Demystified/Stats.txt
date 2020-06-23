@@ -1,0 +1,6 @@
+A total of 71 players were involved, of which 24 crossed level 8.
+The game ran for a total of 36hrs (9AM, May 1 to 9PM, May 2).
+Passwords were revealed upto level 8 (included).
+Hints were given upto level 18 (13, 17 skipped) and level 25.
+Player with ID 138 was disqualified for copying answers.
+Readme of level 5 was corrected to 'a' = 97 from 'a' = 097.
